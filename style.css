@@ -83,10 +83,10 @@ a {
 .carousel-image-1{
   background-image: url("/architectural-blueprints.jpg");
   background-size: cover;
-  height: 600px;
+  height: 400px;
 }
 .carousel{
-  height: 6000px;
+  height: auto;
   background-color: white;
 }
 .navbar{
