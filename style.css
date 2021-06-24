@@ -20,7 +20,7 @@ a {
     color: #495057 !important;
 }
 .navlinks{
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
 }
 .brand-logo{
@@ -80,8 +80,14 @@ a {
   -webkit-animation-name: slideIn;
   animation-name: slideIn;
 }
+.carousel-image-1{
+  background-image: url("/architectural-blueprints.jpg");
+  background-size: cover;
+  height: 560px;
+}
 .carousel{
-  background-color: rgb(244, 161, 0);
+  height: 560px;
+  background-color: white;
 }
 .navbar{
   box-shadow: #495057;
